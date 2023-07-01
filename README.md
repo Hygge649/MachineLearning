@@ -10,3 +10,8 @@ Text categorization is the task on classifying a set of documents into categorie
 #Assignment2: Clustering
 Use the public dataset to implement the K-means algorithm.
 
+
+
+#Assignment3: Nonparameter-modelling
+• Use the public dataset UCI Iris to implement the Parzen window and KNN algorithm, where the dataset is downloaded from the following website: http://archive.ics.uci.edu/ml/machine-learning-databases/iris/
+• Warnings: For KNN and Parzen algorithms, there is no training stage.
